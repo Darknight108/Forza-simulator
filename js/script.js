@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
     const buyButtons = document.querySelectorAll('.buy-button');
     const priceIds = {
-        'Playseat Evolution PRO Red Bull Racing Esports': 'price_1QSUMCKNpgOvwdtQNtL3g6bp',
-        'Playseat Formula Instinct - Edición F1': 'price_1QSUTfKNpgOvwdtQDSgpyoCh',
+        'Playseat® Evolution PRO Red Bull Racing Esports': 'price_1QSUMCKNpgOvwdtQNtL3g6bp',
+        'Playseat® Formula Instinct - Edición F1®': 'price_1QSUTfKNpgOvwdtQDSgpyoCh',
         'Playseat® Challenge X - Logitech G Edition': 'price_1QSUVfKNpgOvwdtQr7kZp5Rr',
         'Thrustmaster T818 Ferrari SF1000': 'price_1QSUZMKNpgOvwdtQjYnb2MKd',
         'Thrustmaster TS-XW Sparco': 'price_1QSUaeKNpgOvwdtQwqP4FVGQ',
